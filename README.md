@@ -1,2 +1,3 @@
-# FitFuel-Website
-A fitness website to sell supplements, clothing and gym equipment for home and professional use. 
+Fitness Website project made for university assignment.
+It contains 5 pages including home, supplements, clothing, equipment and contact.
+Built using HTML and CSS only.
